@@ -1,0 +1,27 @@
+
+.a1{background-image:url(http://i.imgur.com/lXzJ1eB.png);}
+.a2{background-image:url(http://i.imgur.com/SJbRQF7.png);}
+.a3{background-image:url(http://media5.picsearch.com/is?h6OmaGgTShsD4vB0HAX_wILinS9xk_XDvVa4vGmrcL0&height=26);}
+.a1{ display:inline;}
+.a2{display:inline;}
+.a3{display:inline;}
+input[type=button]{
+  background-color:darkblue;
+  border-radius:10px;
+width:25%;
+}
+body{
+width:500px;
+height: 800px;
+ margin:auto;
+  border-radius:1px;
+  box-sizing:border-box;
+}
+div{
+  padding:1.5px;
+  background-image:url(http://www.psdgraphics.com/wp-content/uploads/2010/04/blue-layout-background.jpg);
+}
+input{
+  background-color:lightsteelblue;
+  width:50%;
+}
